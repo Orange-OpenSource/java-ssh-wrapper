@@ -10,6 +10,4 @@ Today the following features are supported:
 - copy a file to a remote SSH host
 
 ## License
-Copyright (c) 2016, Orange 
-All rights reserved.
 Java ssh wrapper is distributed under the terms of the BSD license, see the license file
