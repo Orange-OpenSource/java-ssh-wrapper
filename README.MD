@@ -9,5 +9,13 @@ Today the following features are supported:
 - execute a command on a remote SSH host
 - copy a file to a remote SSH host
 
+## Build
+The library is not published on maven central yet.
+
+To build it, just run:
+<code>
+./gradlew fatJar
+</code>
+
 ## License
 Java ssh wrapper is distributed under the terms of the BSD license, see the license file
