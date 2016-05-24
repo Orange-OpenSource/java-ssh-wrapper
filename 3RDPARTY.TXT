@@ -1,0 +1,6 @@
+This software uses the JSch library
+
+JSch - http://www.jcraft.com/jsch
+Copyright (c) 2002-2015 Atsuhiko Yamanaka, JCraft,Inc. 
+JSch is distributed under the term of the BSD license
+http://www.jcraft.com/jsch/LICENSE.txt
