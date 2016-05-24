@@ -35,6 +35,7 @@ To test if you can connect to a host:
 <code>
 
 $ java -jar build/libs/java-ssh-wrapper.jar CONNECTED guest password localhost
+
 OK :)
 </code>
 
@@ -42,8 +43,11 @@ To launch a command on a host:
 <code>
 
 $ java -jar build/libs/java-ssh-wrapper.jar EXEC guest password localhost uname
+
 Linux
+
 Command executed successfully
+
 OK :)
 </code>
 
